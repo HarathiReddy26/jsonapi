@@ -1,1 +1,11 @@
 API_KEY="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"
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Website</title>
+</head>
+<body>
+<h1>This is my website!</h1>
+<p>This is a paragraph of text on my website.</p>
+</body>
+</html>
